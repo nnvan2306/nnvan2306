@@ -7,8 +7,8 @@ I'm Văn, a professional **self taught** Full Stack developer from Vietnamese.
 
 ### Languages
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://work.fstack.com.vn/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)](https://work.fstack.com.vn/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)]
+[![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)]
 [![C++](https://img.shields.io/badge/C++-000?&logo=cplusplus&logoColor=0057b8)](https://work.fstack.com.vn/)
 [![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://work.fstack.com.vn/)
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=007396)](https://work.fstack.com.vn/)
