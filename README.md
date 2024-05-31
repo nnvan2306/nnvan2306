@@ -2,11 +2,8 @@
 
 I'm Văn, a professional **self taught** Full Stack developer from Vietnamese.
 
-[![](https://mg.shields.io/badge/-🌈%20Website-FFF)](https://work.fstack.com.vn/)
 [![](https://img.shields.io/badge/-Discord-FFF?&logo=Discord)](https://discord.com/channels/847494107726217216/847494107726217219)
 [![](https://img.shields.io/badge/-Telegram-FFF?&logo=Telegram)](https://t.me/@Iamhew03)
-[![](https://img.shields.io/badge/-Hashnode-FFF?&logo=hashnode&logoColor=2962FF)](https://hashnode.com/@Iamhew03)
-[![](https://img.shields.io/badge/-Reddit-FFF?&logo=reddit)](https://www.reddit.com/user/Iamhew03)
 
 ### Languages
 
