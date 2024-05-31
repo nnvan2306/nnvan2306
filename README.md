@@ -15,12 +15,13 @@ I'm Văn, a professional **self taught** Full Stack developer from Vietnamese.
 
 ### Technologies
 
+[![](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)](https://work.fstack.com.vn/)
+[![](https://img.shields.io/badge/-React-000?&logo=React)](https://work.fstack.com.vn/)
 [![](https://img.shields.io/badge/-Node.js-000?&logo=node.js)](https://work.fstack.com.vn/)
 [![](https://img.shields.io/badge/-Express-000?&logo=express)](https://work.fstack.com.vn/)
-[![](https://img.shields.io/badge/-React-000?&logo=React)](https://work.fstack.com.vn/)
-[![](https://img.shields.io/badge/-SQLite-000?&logo=Sqlite)](https://work.fstack.com.vn/)
 [![](https://img.shields.io/badge/-Sequelize-000?&logo=Sequelize)](https://work.fstack.com.vn/)
-[![](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)](https://work.fstack.com.vn/)
+[![](https://img.shields.io/badge/-SQLite-000?&logo=Sqlite)](https://work.fstack.com.vn/)
+
 
 ### Other
 
