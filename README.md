@@ -26,14 +26,9 @@ I'm Văn, a professional **self taught** Full Stack developer from Vietnamese.
 ### Other
 
 [![](https://img.shields.io/badge/-HTML-000?&logo=html5)]
-
 [![](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)]
-
 [![](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)]
-
 [![](https://img.shields.io/badge/-Tailwind-000?&logo=tailwind-css)]
-
 [![](https://img.shields.io/badge/-Sass-000?&logo=sass&logoColor=CC6699)]
-
 [![](https://img.shields.io/badge/-Git-000?&logo=Git)]
 
