@@ -21,8 +21,6 @@ I'm Văn, a professional **self taught** Full Stack developer from Vietnamese.
 [![](https://img.shields.io/badge/-Express-000?&logo=express)]
 [![](https://img.shields.io/badge/-Nest.js-000?&logo=nestjs)]
 [![](https://img.shields.io/badge/-Sequelize-000?&logo=Sequelize)]
-[![](https://img.shields.io/badge/-SQLite-000?&logo=Sqlite)]
-
 
 ### Other
 
